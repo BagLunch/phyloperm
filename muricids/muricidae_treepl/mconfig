@@ -1,0 +1,10 @@
+treefile = muricidae.tre
+smooth = 100
+numsites = 4075
+outfile = muricidae.dated.tre
+cv
+cvoutfile = muricidae_cv
+mrca = ALL Conus_textile Morula_granulata
+min = ALL 100
+max = ALL 150
+nthreads=4
